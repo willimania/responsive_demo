@@ -1,0 +1,23 @@
+#phone {
+	background-image: url("../images/iPhone_5_portrait.png");
+	width: 581px;
+  height: 801px;
+  background-size: 440px;
+  background-repeat: no-repeat;
+  background-position: top left;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+#phone-emulator {
+	width: 242px;
+  height: 423px;
+  position: absolute;
+  top: 238px;
+  background-color: white;
+  margin-left: 102px;
+}
+
+#phone-iframe {
+	overflow: hidden;
+}
